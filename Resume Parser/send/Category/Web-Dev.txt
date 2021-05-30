@@ -1,0 +1,86 @@
+Data Structures
+algorithms
+Spring
+JSP
+DBMS
+Servlets
+java
+301 redirect
+404
+Accessibility / 508 Compliance
+Agile
+Algorithm
+ALT tag
+API
+Application
+Back-end
+Breakpoints
+Bootstrap
+Browser
+Bug
+Caching
+Call to Action (CTA)
+Code
+CSS
+Content Management System (CMS)
+Conversion
+Cookies
+Domain Name
+DNS
+Dots per inch (DPI)
+Encapsulated PostScript (EPS)
+Favicon
+Fluid Layout
+Fonts (True type / Postscript / OpenType /Sans Serif / Serif)
+(The) Fold (or Above the Fold)
+Frameworks
+Front-end
+Graphical User Interface (GUI)
+Hosting
+404
+API
+Application
+Attribute
+Back End
+Browser
+Bug
+Cache
+Classes
+CMS
+Conversion
+Cookies
+Crawl
+CRM
+CSS
+CTA
+DevOps
+Domain
+Favicon
+Fields
+Firewall
+Framework
+Front End
+FTP
+GUI
+HTML
+Meta Tag
+Navigation
+OOTB
+Opening/Closing Tags
+Page Template
+Plugin
+Property
+Redirects
+Registrar
+Resolution
+Responsive Design
+SAAS Platforms
+Server
+Sitemap
+Slider
+SOS
+UI
+UX
+Widgets
+Wireframe
+WYSIWYG

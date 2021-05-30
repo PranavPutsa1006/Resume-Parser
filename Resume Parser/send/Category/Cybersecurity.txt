@@ -1,0 +1,119 @@
+Cyber
+Cybersecurity
+Cyber Security
+Cybercrime
+Cyber Crime
+Ransomware
+Malware
+Virus
+Trojan Horse
+Worm
+Botnet
+Spyware
+Rootkit
+DDoS
+DoS
+Phishing
+Spear Phishing
+Encryption
+BYOD
+Pen-Testing
+Clickjack
+Deepfake
+Whitehat
+Blackhat
+Cybercrime
+Cyber Forensics
+Information Security
+Network Security
+Hacking
+Ethical hacking
+Ethics
+Security
+Breach
+Violation
+Exploit
+Defend
+Attack
+Risk
+Network Forensics
+Database Security
+Penetration testing
+Vulnerability Analysis
+National Security
+Intrusion 
+Detection
+Secure
+IDS
+IPS
+DLP
+SIEM
+Web gateway
+Proxy appliances
+Antivirus
+Business Email Compromise (BEC)
+Cryptocurrency
+Denial of Service
+Exfiltration
+Forensics 
+GDPR 
+ Insurance
+Hardening
+Jailbreak 
+Keylogger 
+Log files
+OFAC
+ Privilege
+Secure Sockets Layer (SSL)
+Trojan Horse 
+Unauthorized Access
+Vulnerability
+XML Encryption
+Yara
+Admin privilege
+Zero Day
+Advanced Persistent Threats
+Adware
+Attack vector
+Authenticator
+Backdoor
+Bitcoin
+Black hat hacking
+Bug
+Brute force attack
+CAPTCHA 
+Catfishing
+Cloud security
+Closed source
+Cookie
+Crypojacking
+Data breach
+Data encryption
+Data protection
+Digital security
+Firewall
+Firmware
+Fileless Malware
+Flame
+Hacker
+Hash
+Identity check
+Identity theft
+Insider threat
+Keylogger
+Mitigation defense
+NSA
+Piggyback programs
+Patch management
+Private data
+ReCAPTCHA
+Rootkit
+Sandboxing
+Script
+Spoofing
+Spyware
+SSL certificate
+Trialware
+Trojan
+Two-factor authentication
+Virtual Private Network
